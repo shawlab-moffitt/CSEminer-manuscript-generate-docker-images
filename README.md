@@ -9,7 +9,7 @@ The program will summarize counts displayed in Figure 1 as well as generate supp
 ## User Configuration Requirements
 | Required Packages | Version | Link to package | Notes |
 | --- | --- | --- | --- | 
-| DOCKER |  | [https://www.oracle.com/java/technologies/downloads/](https://docs.docker.com/engine/install/) | Required to run the docker image |
+| DOCKER |  | https://docs.docker.com/engine/install/ | Required to run the docker image |
 
 ## Shell Script
 ```
