@@ -32,7 +32,7 @@ docker cp [container id]:/app/OutputFolder/ .
 docker save -o CSEminer_3_figure_data_generation.tar cseminer_example
 
 ```
-Performs the final summarization, generating the counts and supplementary data tables used in the manuscript.
+The pipeline performs the final summarization, generating the counts and supplementary data tables used in the manuscript.
 ### The Output Folder contains the following files
   
 | Files | Descriptions |
